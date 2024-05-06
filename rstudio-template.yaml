@@ -298,7 +298,7 @@ objects:
     source:
       type: Git
       git:
-        uri: https://github.com/CSCfi/rstudio-openshift.git
+        uri: https://github.com/trispera/rstudio-openshift.git
         ref: ${SOURCE_REPOSITORY_REF}
       contextDir: server
     strategy:
